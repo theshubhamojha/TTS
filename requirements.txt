@@ -2,7 +2,7 @@ spacy==2.0.18
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz
 sklearn-crfsuite==0.3.6
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-JWT-Simple==0.0.3
 rasa-nlu==0.14.6
 gunicorn==19.9.0
